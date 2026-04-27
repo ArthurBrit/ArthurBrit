@@ -1,8 +1,12 @@
 # 👨‍🚀 Arthur Brito
 
-💻 Desenvolvedor em formação
-🚀 Focado em backend e sistemas
-📚 Aprendendo Python, JavaScript e Git
+<div align="center">
+
+💻 Desenvolvedor em formação  
+🚀 Focado em backend e sistemas  
+📚 Python | JavaScript | Git  
+
+</div>
 
 ---
 
